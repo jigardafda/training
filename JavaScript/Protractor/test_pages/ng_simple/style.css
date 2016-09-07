@@ -1,0 +1,23 @@
+#app {
+	width: 500px;
+    margin: auto;
+    background: bisque;
+    border: 1px solid rosybrown;
+    padding: 12px;
+    line-height: 4;
+}
+
+#app label{
+	display: inline-block;
+	width: 100px;
+}
+
+#app input{
+	outline: 0;
+	width: 300px;
+}
+
+#app h2{
+	text-align: center;
+}
+
