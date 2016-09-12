@@ -2,8 +2,8 @@
 
 ## Trainings
 
-- [JavaScript Fundamentals!](JavaScript/JavaScript/JavaScript_Fundamentals) 
+- [JavaScript Fundamentals](https://github.com/jigardafda/training/tree/master/JavaScript/JavaScript_Fundamentals) 
 - JavaScript Advance
 - Angular.JS
 - Node.JS
-- Protractor
+- [Protractor](https://github.com/jigardafda/training/tree/master/JavaScript/Protractor)
